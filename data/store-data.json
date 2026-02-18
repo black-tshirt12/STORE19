@@ -329,8 +329,8 @@
     "productOrder": []
   },
   "floatingContact": {
-    "enabled": false,
-    "buttonType": "whatsapp",
+    "enabled": true,
+    "buttonType": "telegram",
     "phoneNumber": "+212679460301",
     "position": "right",
     "defaultMessage": "Hi Black T-Shirt, I'd like to order a T-shirt.",
