@@ -330,11 +330,10 @@
   },
   "floatingContact": {
     "enabled": true,
-    "buttonType": "instagram",
+    "buttonType": "whatsapp",
     "phoneNumber": "+212679460301",
     "position": "right",
-    "defaultMessage": "Hi Black T-Shirt, I'd like to order a T-shirt.",
-    "instagramUrl": "https://www.instagram.com/mohamed_bounsrifi?igsh=MWh6dWc4OWc0NWd2cA=="
+    "defaultMessage": "Hi Black T-Shirt, I'd like to order a T-shirt."
   },
   "sizes": [
     {
